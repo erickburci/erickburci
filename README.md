@@ -6,8 +6,8 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*g__jiesLRIfCRefVG69Pfw.gif">
 
 - 🧑🏻‍🎓 Studied Computer Science at the University of California, Irvine
-- 📚 Currently learning about data analytics and data visualiztion
-- 💬 Ask me about Python, SQL, Excel, and Tableau
+- 📚 Currently learning about **Data Analytics** and **Data Visualiztion**
+- 💬 Ask me about **Python**, **SQL**, **Excel**, and **Tableau**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
